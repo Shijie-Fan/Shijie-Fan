@@ -2,13 +2,10 @@ name: Scrape Talk Locations
 
 on:
   push:
+    paths:
+      - 'talks/**'
+      - 'talkmap.ipynb'
   workflow_dispatch:
-
-permissions:
-  pull-requests: write
-  contents: write
-  pages: write
-  id-token: write
 
 jobs:
   build:
