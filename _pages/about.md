@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! Welcome to my webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 
 
@@ -15,8 +16,10 @@ I am Shijie Fan, a PhD student in Pure Mathematics at the Academy of Mathematics
 
 ### Education
 
-- **2023.09 – (Expected 2026.07)**: PhD Student in Pure Mathematics, Morningside Center of Mathematics, China. Supervisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, Chinese Academy of Sciences).
-- **2021.09 – 2023.07**: Master Student in Pure Mathematics, Morningside Center of Mathematics, China. Supervisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, Chinese Academy of Sciences).  
+- **2023.09 – (Expected 2026.07)**: PhD Student in Pure Mathematics, Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China.
+Supervisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences).
+- **2021.09 – 2023.07**: Master Student in Pure Mathematics, Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China.
+Supervisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences). 
 - **2017.09 – 2021.07**: Bachelor of Science, Northeastern University, China. 
 
 ### Research Interests
