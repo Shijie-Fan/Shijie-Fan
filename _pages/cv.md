@@ -7,58 +7,43 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**Ph.D Student, Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China**  
+📧 [fanshijie21@mails.ucas.ac.cn](mailto:fanshijie21@mails.ucas.ac.cn)  
+🌐 [https://shijie-fan.github.io/](https://shijie-fan.github.io/)  
+📍 Beijing, China
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Downloadable CV]
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
+- **Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China**  
+  *Ph.D student in mathematics*  
+  Sept 2023 - *July 2026 (Expected)*  
+  - Doctoral Advisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences)
+  - Research Interests: Diophantine geometry, especially integral points on varieties and effective Mordell conjecture.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+- **Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China**  
+  *Master student in mathematics*  
+  Sept 2021 - *July 2023*  
+  - Master Advisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences)
+  - Research Interests: Diophantine geometry, especially integral points on varieties and effective Mordell conjecture. 
+
+- **Northeastern University**  
+  *Bachelor of Science in mathematics*  
+  Sept 2017 - July 2021  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Publications and Preprints
+- Shijie Fan and Rafael von K&auml;nel, *Rational points and rational moduli spaces*, Preprint (submitted): [arXiv:2501.17155](https://arxiv.org/abs/2501.17155) (2025), 61 pages.
+
+
+
+## Languages
+- **Chinese**: Native
+- **English**: Proficient
+
+---
+
+_Last Updated: 02/03/2025_
