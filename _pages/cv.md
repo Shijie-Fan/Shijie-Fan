@@ -20,15 +20,15 @@ redirect_from:
 - **Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China**  
   *Ph.D student in mathematics*  
   Sept 2023 - *July 2026 (Expected)*  
-  - Doctoral Advisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences)
-  - Research Interests: Diophantine geometry, especially integral points on varieties and effective Mordell conjecture.
+  - Doctoral Advisor: **Rafael von K&auml;nel** (IAS, Tsinghua) and **Ye Tian** (MCM, AMSS, Chinese Academy of Sciences)
+  - Research Interests: Diophantine geometry, especially integral and rational points on varieties and height bounds.
 
 
 - **Morningside Center of Mathematics (MCM), Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences, China**  
   *Master student in mathematics*  
   Sept 2021 - *July 2023*  
-  - Master Advisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences)
-  - Research Interests: Diophantine geometry, especially integral points on varieties and effective Mordell conjecture. 
+  - Master Advisor: **Rafael von K&auml;nel** (IAS, Tsinghua) and **Ye Tian** (MCM, AMSS, Chinese Academy of Sciences)
+  - Research Interests: Diophantine geometry, especially integral and rational points on varieties and height bounds. 
 
 - **Northeastern University, China**  
   *Bachelor of Science in mathematics*  
@@ -46,4 +46,4 @@ redirect_from:
 
 ---
 
-_Last Updated: 02/03/2025_
+_Last Updated: 03/03/2025_
