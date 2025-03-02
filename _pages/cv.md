@@ -30,7 +30,7 @@ redirect_from:
   - Master Advisor: Rafael von K&auml;nel (IAS, Tsinghua) and Ye Tian (MCM, AMSS, Chinese Academy of Sciences)
   - Research Interests: Diophantine geometry, especially integral points on varieties and effective Mordell conjecture. 
 
-- **Northeastern University**  
+- **Northeastern University, China**  
   *Bachelor of Science in mathematics*  
   Sept 2017 - July 2021  
   

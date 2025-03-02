@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student in mathematics"
   location         : "Beijing, China"
-  employer         : "Academy of Mathematics and Systems Science, Chinese Academy of Sciences"
+  employer         : "MCM, AMSS"
   uri              : # URL
   email            : "fanshijie21@mails.ucas.ac.cn" 
 
@@ -265,7 +265,7 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  
+
   # _articles
   - scope:
       path: ""
