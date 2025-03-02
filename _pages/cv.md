@@ -42,7 +42,7 @@ redirect_from:
 
 ## Languages
 - **Chinese**: Native
-- **English**: Proficient
+- **English**: Advanced
 
 ---
 
